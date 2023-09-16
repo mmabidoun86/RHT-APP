@@ -1,0 +1,15 @@
+{
+  "name": "RHT Project",
+  "version": "1.0.0",
+  "description": "This is the first Api self practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbey<mmabiodun86@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
